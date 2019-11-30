@@ -3,7 +3,7 @@ comments.show(comments.index);
 comments.events();
 addGoogleMaps();
 
-addGoogleMaps () {
+function addGoogleMaps () {
   document.getElementById('map').innerHTML = '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3079.6286439412997!2d-0.3515976842135006!3d39.477717379485306!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd60489a56260cdb%3A0x7f4822b6c8d8bb2f!2sPla%C3%A7a+del+Poeta+Vicente+Gaos%2C+46021+Val%C3%A8ncia!5e0!3m2!1ses!2ses!4v1542454453811" width="320" height="260" style="border:0" allowfullscreen></iframe>'
 }
 
