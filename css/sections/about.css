@@ -24,6 +24,7 @@ main section section {
   width: 20%;
   margin-left: 5%;
   margin-right: 4%;
+  min-height: 480px;
 }
 main h3 {
   font-family: var(--subtitle-font);

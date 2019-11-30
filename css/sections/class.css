@@ -1,13 +1,13 @@
 .classes {
   position: relative;
   padding: 3em;
-  background: url('../../images/pau-1.jpg') no-repeat center center;
+  background: url('../../images/bass.jpg') no-repeat center center;
   background-size: 100%;
 }
 
 .classes h2, main h2, .contact h2 {
   font-size: 3em;
-  font-family: 'Catamaran', sans-serif;
+  font-family: var(--header-font);
   color: #432628;
 }
 .classes ul {

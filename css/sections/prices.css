@@ -1,7 +1,7 @@
 .price h2 {
   text-align: center;
   font-size: 3em;
-  font-family: 'Catamaran', sans-serif;
+  font-family: var(--header-font);
   color: var(--main-light-color);
   margin-bottom: 1em;
 }
@@ -46,7 +46,7 @@
 .price div {
   border-bottom: none;
 }
-.price h3 {
+.price h3, .price h4 {
   padding: .2em;
   text-align: center;
   color: #fff;

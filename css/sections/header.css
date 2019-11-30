@@ -1,6 +1,6 @@
 header{
   position: relative;
-  background: url('../../images/header-2-large.jpg') no-repeat center center;
+  background: url('../../images/header-large.jpg') no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -34,7 +34,7 @@ header h1 {
   text-align: center;
   color: var(--main-light-color);
   font-family: var(--subtitle-font);
-  font-family: 'Catamaran', sans-serif;
+  font-family: var(--header-font);
   text-shadow: -1px -1px 0px rgba(255,255,255,0.3), 1px 1px 0px rgba(0,0,0,0.8);
   font-size: 5em;
   line-height: 1.4;
