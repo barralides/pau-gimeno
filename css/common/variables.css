@@ -1,0 +1,32 @@
+:root {
+  --main-color: #35775b;
+  --secondary-color: #bf4929;
+  --main-light-color: #dba461;
+  --main-dark-color: #000;
+  --secondary-light-color: #c68cff;
+  --main-dark-color: #212121;
+  --font-work-sans: 'Work Sans', sans-serif;
+  --font-algreya-sans-sc: 'Alegreya Sans SC', sans-serif;
+  --font-average: 'Average', serif;
+  --font-indie: 'Indie Flower', cursive;
+  --font-sans-one: 'Roboto', sans-serif;
+  --font-sans: 'Montserrat', sans-serif;
+  --font-sans-three: 'Raleway', sans-serif;
+  --text-font: var(--font-average);
+  --title-font: var(--font-work-sans);
+  --font-text: var(--font-sans);
+  --handle-font: var(--font-indie);
+
+
+    /* font-family: 'Ruthie', cursive;
+
+    font-family: 'Molle', cursive;
+
+    font-family: 'Cabin Sketch', cursive;
+
+    font-family: 'Fredericka the Great', cursive;
+
+    font-family: 'Freckle Face', cursive; */
+
+
+}

@@ -1,0 +1,39 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../../fonts/icomoon.eot?cv2olk');
+  src:  url('../../fonts/icomoon.eot?cv2olk#iefix') format('embedded-opentype'),
+    url('../../fonts/icomoon.ttf?cv2olk') format('truetype'),
+    url('../../fonts/icomoon.woff?cv2olk') format('woff'),
+    url('../../fonts/icomoon.svg?cv2olk#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-phone:before {
+  content: "\e942";
+}
+.icon-calendar:before {
+  content: "\e953";
+}
+.icon-bubbles4:before {
+  content: "\e970";
+}
+.icon-mail2:before {
+  content: "\ea84";
+}
+.icon-whatsapp:before {
+  content: "\ea93";
+}

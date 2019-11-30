@@ -1,0 +1,52 @@
+aside, section.price {
+  background-color: #313131;
+  padding-bottom:5em;
+  padding-top: 3em;
+}
+aside {
+  position: relative;
+}
+aside section{
+  position: absolute;
+  bottom: 2em;
+  right: 4em;
+  margin-left: 90%;
+  min-width: 180px;
+}
+aside span {
+  color: #fff;
+  position: absolute;
+  top: -0.5em;
+  left: -0.4em;
+  font-size: 4em;
+}
+aside button {
+  display: inline-block;
+  vertical-align: top;
+  background: transparent;
+  border: none;
+  color: #a5a5a5;
+  font-size: 3em;
+  margin-left: .5em;
+}
+aside a {
+  position: absolute;
+  bottom: 2em;
+  left: 4.2em;
+  color: white;
+}
+blockquote {
+  display: none;
+  color: #fff;
+}
+blockquote cite {
+  color: var(--main-light-color);
+  font-size: 2em;
+  margin-left: 2em;
+}
+blockquote p {
+  color: #a5a5a5;
+  position: relative;
+  font-size: 1.6em;
+  margin: 2em 6em 1em;
+}

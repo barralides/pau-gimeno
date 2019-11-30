@@ -1,0 +1,28 @@
+.classes {
+  position: relative;
+  padding: 3em;
+  background: url('../../images/pau-1.jpg') no-repeat center center;
+  background-size: 100%;
+}
+
+.classes h2, main h2, .contact h2 {
+  font-size: 3em;
+  font-family: 'Catamaran', sans-serif;
+  color: #432628;
+}
+.classes ul {
+  margin: 1em 2em;
+  font-size: 1.6em;
+}
+
+.classes article {
+  display: inline-block;
+  vertical-align: top;
+  max-width: 80%;
+  min-height: 150px;
+  margin: 2em 5em 2em 2em;
+}
+.classes article  p{
+  color: var(--main-dark-color);
+  font-size: 1.6em;
+}

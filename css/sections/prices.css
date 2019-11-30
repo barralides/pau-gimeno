@@ -1,0 +1,63 @@
+.price h2 {
+  text-align: center;
+  font-size: 3em;
+  font-family: 'Catamaran', sans-serif;
+  color: var(--main-light-color);
+  margin-bottom: 1em;
+}
+.price span {
+  margin: 0 auto 1em;
+  display:block;
+  width:24px;
+  height:24px;
+  border-radius:12px;
+  background-color: var(--main-light-color);
+}
+.price article {
+  text-align: center;
+  width: 80%;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+.price article.modality {
+  display: block;
+  margin-top: 2em;
+}
+.price article.modality h3 {
+  color: #fff;
+  font-size: 2em;
+}
+.price section{
+  position: relative;
+  min-height: 200px;
+}
+.price section, .price div {
+  padding-top: 2em;
+  border-right: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+}
+.price .last {
+  border-right: none;
+}
+.price div:last-child {
+  border-right: none;
+}
+.price div {
+  border-bottom: none;
+}
+.price h3 {
+  padding: .2em;
+  text-align: center;
+  color: #fff;
+}
+.price p {
+  margin: 0;
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  color: #ccc;
+  font-size: 3em;
+}
