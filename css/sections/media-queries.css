@@ -78,7 +78,7 @@
     margin-bottom: 0;
   }
   .contact iframe {
-    width: 600px;
+    width: 400px;
   }
 }
 
@@ -98,9 +98,6 @@
     margin: 1.5em;
     font-size: 1em;
   }
-  .contact iframe {
-    width: 500px;
-  }
 }
 
 @media (max-width: 576px) {
@@ -109,8 +106,5 @@
   }
   menu li{
     margin: 1.5em 1em;
-  }
-  .contact iframe {
-    width: 400px;
   }
 }
