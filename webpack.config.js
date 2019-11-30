@@ -1,8 +1,8 @@
 // node_modules/.bin/webpack
 module.exports = {
-  entry: 'js/index.js',
+  entry: __dirname+'/js/index.js',
   output: {
-      path: __dirname+'public/js/index.js',
+      path: __dirname+'/public/js',
       filename: 'index.js'
   }
 }
