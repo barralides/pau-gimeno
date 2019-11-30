@@ -4,14 +4,14 @@
 }
 body {
   width: 100%;
-  font-family: var(--text-font);
+  font-family: 'Average', serif;
   font-size: 1.2em;
 }
 body, body section.price h3, body section.price p {
-  font-family: var(--text-font);
+  font-family: 'Average', serif;
 }
 body section {
-  font-family: var(--font-text);
+  font-family: 'Montserrat', sans-serif;
 }
 .title {
   margin: 0 1em;

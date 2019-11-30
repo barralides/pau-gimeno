@@ -1,5 +1,5 @@
 aside, section.price {
-  background-color: var(--main-dark-color);
+  background-color: #212121;
   padding-bottom:5em;
   padding-top: 3em;
 }
@@ -41,7 +41,7 @@ blockquote {
   color: #fff;
 }
 blockquote cite {
-  color: var(--main-light-color);
+  color: #dba461;
   font-size: 2em;
   margin-left: 2em;
 }

@@ -14,7 +14,7 @@ menu{
 menu li{
   display: inline-block;
   margin: 2.8em;
-  font-family: var(--subtitle-font);
+  font-family: 'Average', serif;
   font-size: 1.5em;
 }
 menu li:last-child {
@@ -32,9 +32,8 @@ header section {
 }
 header h1 {
   text-align: center;
-  color: var(--main-light-color);
-  font-family: var(--subtitle-font);
-  font-family: var(--header-font);
+  color: #dba461;
+  font-family: 'Catamaran', sans-serif;
   text-shadow: -1px -1px 0px rgba(255,255,255,0.3), 1px 1px 0px rgba(0,0,0,0.8);
   font-size: 5em;
   line-height: 1.4;

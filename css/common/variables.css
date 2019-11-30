@@ -1,9 +1,7 @@
 :root {
-  --main-color: #35775b;
   --main-light-color: #dba461;
   --main-dark-color: #212121;
   --text-font: 'Average', serif;
-  --title-font: 'Work Sans', sans-serif;
   --font-text: 'Montserrat', sans-serif;
-  --header-font: var(--header-font);
+  --header-font: 'Catamaran', sans-serif;
 }

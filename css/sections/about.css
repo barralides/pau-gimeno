@@ -26,14 +26,8 @@ main section section {
   margin-right: 4%;
   min-height: 480px;
 }
-main h3 {
-  font-family: var(--subtitle-font);
-  font-size: 1em;
-  text-align: center;
-  margin-top: 360px;
-}
 main p{
-  color: var(--main-dark-color);
+  color: #212121;
   font-size: 1.6em !important;
   margin-bottom: 1em;
 }
@@ -49,6 +43,6 @@ main ul{
   text-align: left;
 }
 main li {
-  color: var(--main-dark-color);
+  color: #212121;
   font-size: 1.6em !important;
 }

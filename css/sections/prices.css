@@ -1,8 +1,8 @@
 .price h2 {
   text-align: center;
   font-size: 3em;
-  font-family: var(--header-font);
-  color: var(--main-light-color);
+  font-family: 'Catamaran', sans-serif;
+  color: #dba461;
   margin-bottom: 1em;
 }
 .price span {
@@ -11,7 +11,7 @@
   width:24px;
   height:24px;
   border-radius:12px;
-  background-color: var(--main-light-color);
+  background-color: #dba461;
 }
 .price article {
   text-align: center;
