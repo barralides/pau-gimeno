@@ -98,6 +98,9 @@
   blockquote p {
     margin: 2em 3em 1em;
   }
+  .contact {
+    max-width: 90%;
+  }
 }
 
 @media (max-width: 576px) {
