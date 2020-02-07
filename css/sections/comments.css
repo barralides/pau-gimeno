@@ -14,7 +14,7 @@ aside section{
   margin-left: 90%;
   min-width: 180px;
 }
-aside span {
+aside p > span {
   color: #fff;
   position: absolute;
   top: -0.5em;

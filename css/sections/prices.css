@@ -5,7 +5,7 @@
   color: #dba461;
   margin-bottom: 1em;
 }
-.price span {
+.price section > span {
   margin: 0 auto 1em;
   display:block;
   width:24px;
