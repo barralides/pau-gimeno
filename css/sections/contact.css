@@ -14,8 +14,11 @@
   min-height: 300px;
   width: 49%;
 }
-.contact > section article{
+.contact > section article.contact-posibilities{
   text-align: left;
+}
+.contact > section article#map{
+  text-align: center;
 }
 .contact-posibilities{
   margin-top: 40px;
