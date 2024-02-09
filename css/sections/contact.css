@@ -15,7 +15,7 @@
   width: 49%;
 }
 .contact > section article{
-  text-align: center;
+  text-align: left;
 }
 .contact-posibilities{
   margin-top: 40px;
@@ -28,8 +28,4 @@
   font-size: 1.2em;
   font-weight: lighter;
   margin-right: 1em;
-}
-.contact-posibilities i{
-  font-size: 1.2em;
-  font-weight: lighter;
 }
